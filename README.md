@@ -6,6 +6,7 @@
 ## 📌 Overview
 
 This project was developed as part of the **Fundamentals of Computer Science (FCS)** course.
+
 👥 Team size: 2 students
 
 It is a **Python console application** that focuses on core computer science concepts including:
